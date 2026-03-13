@@ -1,0 +1,5 @@
+cluster_label,customers,avg_revenue,avg_orders,avg_recency
+At Risk,60,4369.48,10.43,237.25
+High Value,134,4650.78,9.56,58.35
+Low Value,66,13329.15,15.65,52.45
+Medium Value,140,6178.06,14.71,53.9
