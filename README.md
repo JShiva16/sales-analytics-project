@@ -6,7 +6,6 @@
 ![SQL](https://img.shields.io/badge/SQL-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Complete-1E8449?style=for-the-badge)
 
 **An end-to-end data analytics pipeline — from raw data to executive dashboard**
 
@@ -238,43 +237,13 @@ The Power BI dashboard features **4 report pages** with a clean light theme:
 - Peak months: **October–December** (seasonal uplift)
 - Risk: sustained high discounting could erode margins below 40%
 
----
-
-## 🚀 How to Run This Project
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/sales-analytics-project.git
-cd sales-analytics-project
-
-# 2. Install Python dependencies
-pip install pandas numpy matplotlib seaborn openpyxl nbformat jupyter
-
-# 3. Generate the raw data
-python generate_data.py
-
-# 4. Open and run the notebook
-jupyter notebook python/data_cleaning.ipynb
-
-# 5. (Optional) Run SQL queries in any SQLite-compatible tool
-#    Load cleaned_sales_data.csv as the 'sales' table first
-```
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. The data is entirely synthetic and was generated for educational and portfolio purposes only.
-
----
-
 ## 🤝 Connect
 
 If you found this project useful or have feedback, feel free to connect:
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jinkashiva)
 - 🐙 [GitHub](https://github.com/your-username)
-- 📧 your.email@example.com
+- 📧 jinkashivaa@gmail.com
 
 ---
 
